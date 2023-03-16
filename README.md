@@ -9,6 +9,6 @@
    - 1st time we use a proof assistant to teach maths
    - students globally appreciated it (feedback, autonomy, playful)
    - some of them think it helped them with maths
-   - found the Lean syntax difficult (they also tended to attribute their shortcomings in maths to a programming difficulties)
-   - found the Lean error messages helpless
+   - most of them found the Lean syntax difficult (they also tended to attribute their shortcomings in maths to a programming difficulties)
+   - many of them found the Lean error messages helpless
 
