@@ -3,7 +3,7 @@
 * Context : Esisar engineering school, 1st year students, 6 x 1,5h 
 * Website: https://github.com/ftranminh/Esisar_MA121_HA_lean_2023
 * Repository : https://github.com/ftranminh/Esisar_MA121_HA_lean_2023
-* Summary : Short module introducing proof to 1st year undergraduates using Lean3 - in French
+* Summary : Short module introducing proof to 1st year undergraduates using Lean3 - in French.
   We used proof-term style in Lean.
 * Experience : 
    - 1st time we use a proof assistant to teach maths
